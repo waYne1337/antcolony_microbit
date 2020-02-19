@@ -128,15 +128,3 @@ while 1:
 		antd[a] *= -1 #treat like ant is walking the other way (only virtual)
 		antc[a] = 0 #start at zero again
 		pathlen[a] = 0 #forget about path
-
-
-
-
-
-
-
-
-
-
-
-
