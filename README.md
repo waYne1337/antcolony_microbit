@@ -31,8 +31,8 @@ The project consists of mainly 4 useful files:
 ## Using the program on the controller
 * the simulation is always random because of random decisions in the program, so
   every execution should be unique
-* by holding the left button on the controller, you can increase the amount of ants (initially 3, maximal 7)
-* by holding the right button on the controller, you can decrease the amount of ants (minimal 1)
+* by holding the right button on the controller, you can increase the amount of ants (initially 3, maximal 7)
+* by holding the left button on the controller, you can decrease the amount of ants (minimal 1)
 * to restart the program, unplug the battery and plug it again (the reset switch at the back of the
   controller did not always work on my controller)
 
